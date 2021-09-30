@@ -14,4 +14,4 @@
 
 ## Q 1.e. Error graph with different learning rate [0.1, 0.2, 0.5, 0.8, 1.0, 2.0] 
 
-![](./images/Error_vs_steps_for_different_learning_rates.png.png)
+![](./images/Error_vs_steps_for_different_learning_rates.png)
