@@ -11,7 +11,8 @@
 
 
 # Solution
-
+## Q 1. Rewrite the whole excel sheet showing backpropagation. Explain each major step.
+- [Notebook](Back_Prop_NN.ipynb.ipynb) and [Excel Sheet](Book1.xlsx)
 ## Q 1.e. Error graph with different learning rate [0.1, 0.2, 0.5, 0.8, 1.0, 2.0] 
 
 ![](./images/Error_vs_steps_for_different_learning_rates.png)
