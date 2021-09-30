@@ -18,14 +18,14 @@
 ![MicrosoftTeams-image (2)](https://user-images.githubusercontent.com/30425824/135452661-f635d214-bcaa-4c65-9958-771653c7f35c.png)
 
 ## Q 1.d Major Steps
-Below are the defined major steps in this exercise
-a. Initialization - Weights of the neural network
-b. Utility functions - Sigmoid Activation function
-c. Forward propagation - Given the weights and inputs this function calculates the predicted output of the netowrk
-d. Error Calculation - Calculate Squared Error between predicted output and target values
-e. gradient functions for each weights of the netowrk - These functions calculate the gradients of Error with respect to weights
-f. Updation of weights - We have incorporated updation of weights for each iteration in a ```for loop```
-g. All the above are run for different learning rates
+Below are the defined major steps in this exercise  
+   a. Initialization - Weights of the neural network  
+   b. Utility functions - Sigmoid Activation function  
+   c. Forward propagation - Given the weights and inputs this function calculates the predicted output of the netowrk  
+   d. Error Calculation - Calculate Squared Error between predicted output and target values  
+   e. Gradient functions for each weights of the netowrk - These functions calculate the gradients of Error with respect to weights  
+   f. Updation of weights - We have incorporated updation of weights for each iteration in a ```for loop```  
+   g. All the above are run for different learning rates 
 
 Below images shows the paths that contribute to the updation of weight w1
 ![image](https://user-images.githubusercontent.com/30425824/135455783-36d34e17-8366-4c50-8345-82345aadf0dc.png)
