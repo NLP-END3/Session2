@@ -14,6 +14,9 @@
 ## Q 1. Rewrite the whole excel sheet showing backpropagation. Explain each major step.
 - [Notebook](Back_Prop_NN.ipynb.ipynb) and [Excel Sheet](Book1.xlsx)
 
+## Q 1.a Use exactly the same values for all variables as used in the class
+![MicrosoftTeams-image (2)](https://user-images.githubusercontent.com/30425824/135452661-f635d214-bcaa-4c65-9958-771653c7f35c.png)
+
 ## Q 1.d Major Steps
 There are 3 major steps in this exercise
 a. 
