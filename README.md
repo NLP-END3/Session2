@@ -15,3 +15,6 @@
 ## Q 1.e. Error graph with different learning rate [0.1, 0.2, 0.5, 0.8, 1.0, 2.0] 
 
 ![](./images/Error_vs_steps_for_different_learning_rates.png)
+
+Note
+- With higher learning rate, we are reaching global minima for the weights faster. (assuming simple problem and the error function will be concave with one only minima)
