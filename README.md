@@ -27,10 +27,10 @@ Below are the defined major steps in this exercise
    f. Updation of weights - We have incorporated updation of weights for each iteration in a ```for loop```  
    g. All the above are run for different learning rates 
 
-Below images shows the paths that contribute to the updation of weight w1
+Below images shows the paths that contribute to the updation of weight w1 ---> (PRATEEK WILL MODIFY THIS IMAGE -- this is just a placeholder)
 ![image](https://user-images.githubusercontent.com/30425824/135455783-36d34e17-8366-4c50-8345-82345aadf0dc.png)
 
-Below image shows the paths that contribute to the updation of weight w8
+Below image shows the paths that contribute to the updation of weight w8 ---> (PRATEEK WILL upload this IMAGE -- this is just a placeholder)
 
 ## Q 1.e. Error graph with different learning rate [0.1, 0.2, 0.5, 0.8, 1.0, 2.0] 
 
