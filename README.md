@@ -23,7 +23,7 @@ Below are the defined major steps in this exercise
    b. Utility functions - Sigmoid Activation function  : This is used to squash all the values between 0 and 1  
    c. Forward propagation - Given the weights and inputs this function calculates the predicted output of the netowrk  
    d. Error Calculation - Calculate ```0.5* Squared Error``` between predicted output and target values  
-   e. Gradient functions for each weights of the netowrk - These functions calculate the gradients of Error with respect to each weights in the network. This determines the direction and size of step we could take in the direction of minima.     
+   e. Gradient functions for each weights of the netowrk - These functions calculate the gradients of Error with respect to each weights in the network. This determines the direction and size of step we could take in the direction of minima. Two gradient functions are defined one for each layer. ```gradient_layer1``` function updates the weights that connect the input layer to the hidden layer. ```gradient_layer2``` function updates the weights that connect the hidden layer to output layer.     
    f. Updation of weights - We have incorporated updation of weights for each iteration in a ```for loop```. Each weight is updated by taking only a fraction of step size. The fraction here is defined using learning rate. Higher the learning rate greater the step we take. As a common practice learning rates are in the range between 0 to 1.    
    g. All the above steps are run for different learning rates in a for loop.   
 
